@@ -68,12 +68,12 @@ I performed the following transformations for both queries:
 ### 📊 data_jobs_all  
 Applied Steps (Power Query):
 
-![data_jobs_all_transform](./Images/data_jobs_all_transform.png)
+![data_jobs_all_transform](./data_jobs_all_transform.png)
 
 ### 🛠️ data_job_skills  
 Applied Steps (Power Query):
 
-![data_job_skills_transform](./Images/data_job_skills_transform.png)
+![data_job_skills_transform](./data_job_skills_transform.png)
 
 ---
 
@@ -83,12 +83,12 @@ After transformation, both queries were loaded into the Excel workbook to build 
 ### 📊 data_jobs_all  
 Loaded Table:
 
-![data_jobs_all_load](./Images/data_jobs_all_load.png)
+![data_jobs_all_load](./data_jobs_all_load.png)
 
 ### 🛠️ data_job_skills  
 Loaded Table:
 
-![data_job_skills_load](./Images/data_job_skills_load.png)
+![data_job_skills_load](./data_job_skills_load.png)
 
 ---
 
@@ -103,7 +103,7 @@ Loaded Table:
 
 ### 📉 Visualization
 
-![skills_vs_salary_chart](./Images/skills_vs_salary_chart.png)
+![skills_vs_salary_chart](./skills_vs_salary_chart.png)
  
 
 
