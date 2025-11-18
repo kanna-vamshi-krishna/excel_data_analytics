@@ -159,6 +159,7 @@ Created a combination PivotChart showing:
 ## Findings  
 - Python, SQL, and Oracle skills correspond to the highest median salaries.  
 - General office skills like Word or PowerPoint show the lowest salary influence.  
+![top_10_skills_salary_comparison](./top_10_skills_salary_comparison.png)
 
 ## Insight  
 High-value technical skills have the greatest impact on earning potential.
