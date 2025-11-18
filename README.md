@@ -128,7 +128,7 @@ Median Salary := MEDIAN(data_jobs_all[salary_year_avg])
 ## Findings  
 - US-based roles consistently show higher median salaries.  
 - The pay gap widens for senior and technical roles such as engineering and data science.  
-
+![Data_Roles_Salary_Trends_US_vs_International](./Data_Roles_Salary_Trends_US_vs_International.png)
 ## Insight  
 Geography plays a major role in compensation. US roles offer the strongest salary growth.
 
@@ -142,6 +142,7 @@ Using Power Pivot, the job listings and skills tables were connected using `job_
 ## Findings  
 - SQL and Python are the most common skills across data jobs.  
 - Cloud technologies like AWS and Azure show strong demand growth.  
+![top_skills_of_data_professionals](./top_skills_of_data_professionals.png)
 
 ## Insight  
 Programming + cloud skills remain essential core competencies in the industry.
